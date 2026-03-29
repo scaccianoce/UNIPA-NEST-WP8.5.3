@@ -1,6 +1,6 @@
 # DEAGUI — Urban District Energy Analysis
 
-**DEAGUI** is a desktop application built with **Qt 6** and **C++20** to support energy analysis of buildings and urban districts. It integrates tools for converting meteorological and geographic files, managing input data for the **BldSimu** energy simulator, visualising simulation results, and computing the **thermal resilience indicators** defined in the NEST WP5 project.
+**DEAGUI** is a desktop application built with **Qt 6** and **C++20** to support energy analysis of buildings and urban districts. It integrates tools for converting meteorological and geographic files, managing input data for the **BldSimu** energy simulator, visualising simulation results, and computing the **thermal resilience indicators** defined in the NEST WP5 project. The present work has been developed within the project funded under the National Recovery and Resilience Plan (NRRP), Mission 4 Component 2 Investment 1.3 – Call for tender N. 341 of 15.03.2022 of Ministero dell'Università e della Ricerca (MUR); funded by the European Union – NextGenerationEU. Award Number: Project code PE0000021, Concession Decree No. 1561 of 11.10.2022 adopted by Ministero dell’Università e della Ricerca (MUR), CUP E63C22002160007, Project title "Network 4 Energy Sustainable Transition – NEST".
 
 ---
 
